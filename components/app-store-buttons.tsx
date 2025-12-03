@@ -5,7 +5,7 @@ export function AppStoreButtons() {
     <div className="flex flex-row gap-3 items-center justify-center lg:justify-start">
       {/* App Store Button */}
       <Link
-        href="#"
+        href="https://apps.apple.com/us/app/diagnose-it/id6755348303"
         className="flex items-center gap-2 bg-foreground text-background px-4 py-2 sm:px-6 sm:py-3 rounded-xl hover:opacity-90 transition-opacity text-sm sm:text-base"
       >
         <AppleIcon className="w-6 h-6 sm:w-8 sm:h-8" />
